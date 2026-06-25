@@ -12,6 +12,8 @@ This project demonstrates:
 - ✅ Automated parameter fitting
 - ✅ CSV export for visualization and validation
 
+> This project models and predicts the optimal batch size for LLM inference on RTX 2070 using analytical performance modeling.
+
 ---
 
 # 1. Motivation
