@@ -134,6 +134,12 @@ The generated `batch_curve.csv` shows:
 
 This matches real GPU behavior.
 
+## Batch Throughput Curve
+
+The model prediction closely matches empirical CUDA measurements:
+
+![Batch Curve](docs/batch_curve.png)
+
 ---
 
 # 8. What This Demonstrates
